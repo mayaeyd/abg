@@ -35,11 +35,11 @@ const Dashboard = () => {
   ];
 
   const subjectAverages = [
-    { name: "الكيمياء", percentage: 57.52, color: "#FF7043" },
-    { name: "علم الأحياء", percentage: 84.52, color: "#42A5F5" },
-    { name: "الإنجليزية", percentage: 54.52, color: "#AB47BC" },
-    { name: "الفيزياء", percentage: 67.23, color: "#26C6DA" },
     { name: "الرياضيات", percentage: 84.52, color: "#FFA726" },
+    { name: "الفيزياء", percentage: 67.23, color: "#26C6DA" },
+    { name: "الإنجليزية", percentage: 54.52, color: "#AB47BC" },
+    { name: "علم الأحياء", percentage: 84.52, color: "#42A5F5" },
+    { name: "الكيمياء", percentage: 57.52, color: "#FF7043" },
   ];
 
   const RADIAN = Math.PI / 180;
